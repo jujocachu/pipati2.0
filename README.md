@@ -1,3 +1,12 @@
+Universidad Internacional del Ecuador
+
+Materia: Logica de programación
+
+Profesora: Paula Vizcaíno
+
+Estudiante: Juan José Carrasco Chuchuca
+                                                   
+                                                   
                                                    JUEGO : PIEDRA, PAPEL o TIJERA
 
 
