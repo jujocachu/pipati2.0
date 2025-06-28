@@ -1,6 +1,6 @@
 Universidad Internacional del Ecuador
 
-Materia: Logica de programación
+Materia: Lógica de Programación
 
 Profesora: Paula Vizcaíno
 
