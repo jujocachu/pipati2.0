@@ -1,3 +1,8 @@
+                                                   JUEGO : PIEDRA, PAPEL o TIJERA
+
+
+
+
 **1. Definición de la función jugar()**
 
    Agrupa todo el código del juego en un solo bloque reutilizable. 
